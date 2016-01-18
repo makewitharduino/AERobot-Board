@@ -1,0 +1,19 @@
+# AERobot Board Configuration
+#
+
+##############################################################
+# AErobot Programming Configuration
+aerobot.name = AERobot
+aerobot.upload.tool=avrdude
+aerobot.upload.protocol=usbasp
+aerobot.upload.maximum_size=14336
+aerobot.upload.maximum_data_size=1024
+aerobot.upload.speed=19200
+
+aerobot.bootloader.tool=avrdude
+
+aerobot.build.mcu=atmega168p
+aerobot.build.f_cpu=8000000L
+aerobot.build.core=arduino:arduino
+aerobot.build.variant=standard
+aerobot.build.board=AVR_AEROBOT

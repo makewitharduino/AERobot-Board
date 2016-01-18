@@ -14,8 +14,8 @@
 			"category": "AERobot",
 			"url": "https://github.com/okhiroyuki/aerobot-board-index/releases/download/1.0/aerobot-1.0.0.tar.bz2",
 			"archiveFileName": "aerobot-1.0.0.tar.bz2",
-			"checksum": "SHA-256:8f31c84e8659617fd2b2eee849d73bb59ebf3e13ed2abcfdccac1cb7e7e50c37",
-			"size": "25224",
+			"checksum": "SHA-256:6059DEB303B48C49C5E459D8026597B306EE4F5471A76766D7AA258608C71CCC",
+			"size": "25218",
 			"help": {
 				"online": "https://lets.makewitharduino.com"
 			},
