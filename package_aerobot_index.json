@@ -2,10 +2,10 @@
 	"packages": [{
 		"name": "aerobot",
 		"maintainer": "okhiroyuki",
-		"websiteURL": "https://makewitharduino.com",
+		"websiteURL": "https://lets.makewitharduino.com",
 		"email": "ok.okada.hiroyuki@gmail.com.com",
 		"help": {
-			"online": "https://makewitharduino.com"
+			"online": "https://lets.makewitharduino.com"
 		},
 		"platforms": [{
 			"name": "AERobot AVR Boards",
@@ -15,9 +15,9 @@
 			"url": "https://github.com/okhiroyuki/aerobot-board-index/raw/master/boards/aerobot-1.0.0.tar.bz2",
 			"archiveFileName": "aerobot-1.0.0.tar.bz2",
 			"checksum": "SHA-256:8F31C84E8659617FD2B2EEE849D73BB59EBF3E13ED2ABCFDCCAC1CB7E7E50C37",
-			"size": "29455",
+			"size": "25224",
 			"help": {
-				"online": "https://makewitharduino.com"
+				"online": "https://lets.makewitharduino.com"
 			},
 			"boards": [{
 				"name": "AERobot"
