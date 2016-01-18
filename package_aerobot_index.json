@@ -1,0 +1,36 @@
+{
+	"packages": [{
+		"name": "aerobot",
+		"maintainer": "okhiroyuki",
+		"websiteURL": "https://makewitharduino.com",
+		"email": "ok.okada.hiroyuki@gmail.com.com",
+		"help": {
+			"online": "https://makewitharduino.com"
+		},
+		"platforms": [{
+			"name": "AERobot AVR Boards",
+			"architecture": "avr",
+			"version": "1.0.0",
+			"category": "AERobot",
+			"url": "https://raw.githubusercontent.com/okhiroyuki/arduino-board-index/boards/aerobot-1.0.0.tar.bz2",
+			"archiveFileName": "aerobot-1.0.0.tar.bz2",
+			"checksum": "SHA256:434A4F7A9F536591458B0079583C31A45C3E3495130C39ED274BC0CAA36B8120",
+			"size": "29455",
+			"help": {
+				"online": "https://makewitharduino.com"
+			},
+			"boards": [{
+				"name": "AERobot"
+			}],
+			"toolsDependencies": [{
+				"packager": "arduino",
+				"name": "avr-gcc",
+				"version": "4.8.1-arduino5"
+			}, {
+				"packager": "arduino",
+				"name": "avrdude",
+				"version": "6.0.1-arduino5"
+			}]
+		}]
+    }]
+}
