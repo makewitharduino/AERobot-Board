@@ -12,7 +12,7 @@ aerobot.upload.speed=19200
 
 aerobot.bootloader.tool=avrdude
 
-aerobot.build.mcu=atmega168p
+aerobot.build.mcu=atmega168
 aerobot.build.f_cpu=8000000L
 aerobot.build.core=arduino:arduino
 aerobot.build.variant=standard
